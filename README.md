@@ -71,7 +71,7 @@ $$\text{Attrition Rate} = \left( \frac{\text{Total Resignations}}{\text{Total Em
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/coderun13/Data-Analysis-Projects.git](https://github.com/coderun13/Data-Analysis-Projects.git)
+git clone https://github.com/coderun13/Data-Analysis-Projects.git
 ```
 
 ### 2. Set Up Environment
@@ -116,3 +116,4 @@ Once Jupyter opens, navigate to any project folder and run the .ipynb file.
 
 <img src="https://forthebadge.com/badges/built-with-love.svg" height/>
 </div>
+
