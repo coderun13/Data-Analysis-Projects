@@ -32,9 +32,6 @@ Every project in this repository implements the following "Industrial Standard" 
 
 
 
-[Image of box plot showing IQR and outliers]
-
-
 <hr />
 
 ## 📂 Project Catalog
@@ -116,4 +113,5 @@ Once Jupyter opens, navigate to any project folder and run the .ipynb file.
 
 <img src="https://forthebadge.com/badges/built-with-love.svg" height/>
 </div>
+
 
