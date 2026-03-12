@@ -111,7 +111,8 @@ Once Jupyter opens, navigate to any project folder and run the .ipynb file.
 
 <br />
 
-<img src="https://forthebadge.com/badges/built-with-love.svg" height/>
+<img src="https://forthebadge.com/badges/built-with-love.svg" height="25"/>
 </div>
+
 
 
